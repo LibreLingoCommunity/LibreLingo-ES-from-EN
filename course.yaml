@@ -11,7 +11,7 @@ Course:
     Name: Attribution-ShareAlike 4.0 International
     Short name: CC BY-SA 4.0
     Link: https://creativecommons.org/licenses/by-sa/4.0/legalcode
-  Repository: https://github.com/LibreLingo/LibreLingo-ES-from-EN
+  Repository: https://github.com/LibreLingoCommunity/LibreLingo-ES-from-EN
   Special characters:
     - "á"
     - "Á"
@@ -31,8 +31,8 @@ Course:
     - "¡"
 
 Modules:
-  - basics/
   - introduction/
+  - basics/
   - activities/
 
 Settings:
