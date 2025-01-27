@@ -1,0 +1,22 @@
+# Main greetings - Saludos
+
+- Hola - Hello
+- Buenos días - Good morning
+- Buenas tardes - Good afternoon
+- Buenas noches - Good evening/night
+- ¿Qué tal? - How's it going?
+  - Alternatives:
+    - ¿Cómo está?
+    - ¿Cómo está usted?
+    - ¿Qué pasa?
+- Mucho gusto (en conocerte) - Nice to meet you
+- ¡Hola! ¿Qué pasa? - Hi! What's up?
+- ¡Feliz día! - Have a nice day!
+- ¡Qué gusto verte! - Nice to see you!
+  - ¡Qué alegrìa verte! - So happy to see you!
+  - ¡Encantado/a de verte! - Delighted to see you!
+- ¡Cuánto tiempo sin verte! - Long time no see!
+- ¿Cómo andas? - How are you?
+- ¡Buenas! - A casual way to say hello.
+- ¡Nos vemos! - See you!
+- ¡Hasta pronto! - See you soon!
