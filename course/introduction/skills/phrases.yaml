@@ -5,6 +5,10 @@ Skill:
 New words: []
 
 Phrases:
+
+  - Phrase: ¡Por supuesto!
+    Translation: Of course!
+    
   - Phrase: ¡Buenos días!
     Translation: Good morning!
     Alternative translations:
@@ -56,6 +60,13 @@ Mini-dictionary:
   English:
     - morning:
       - mañana
+    - of:
+      - de
+      - a
+      - para
+    - course:
+      - curso
+      - camino
     - my:
       - mi
     - name: nombre
@@ -114,4 +125,10 @@ Mini-dictionary:
     - buenas: good
     - tardes: afternoons
     - noches: nights
+    - supuesto:
+      - supposed
+      - pretended
+      - so-called
+      - think
+      - postulation
 
