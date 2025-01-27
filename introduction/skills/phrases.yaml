@@ -6,7 +6,7 @@ New words: []
 
 Phrases:
 
-  - Phrase: ¡Por supuesto!
+  - Phrase: ¡Por su puesto!
     Translation: Of course!
     
   - Phrase: ¡Buenos días!
@@ -31,6 +31,8 @@ Phrases:
     Translation: How are you?
 
   - Phrase: ¿Qué pasa?
+    Alternative versions:
+      - ¿Qué onda?
     Translation: What's up?
 
   - Phrase: Mucho gusto
@@ -48,6 +50,48 @@ Phrases:
     Alternative translations:
       - What is your name?
 
+  - Phrase: ¿Cómo está usted?
+    Translation: How are you? (formal version)
+  
+  - Phrase: ¿Cómo estás tú?
+    Translation: How are you? (friendly version)
+  
+  - Phrase: ¿Y usted?
+    Translation: And you? (friendly version)
+  
+  - Phrase: ¿De dónde es usted?
+    Translation: Where are you from? (formal version)
+  
+  - Phrase: ¿De dónde eres tu?
+    Translation: Where are you from? (friendly version)
+
+  - Phrase: Soy de...
+    Translation: I am from...
+
+  - Phrase: No hay de qué
+    Translation: Nothing to it
+
+  - Phrase: Lo siento
+    Translation: I'm sorry
+
+  - Phrase: Igualmente
+    Translation: Likewise
+
+  - Phrase: Con permiso
+    Translation: Excuse me (need to get through)
+
+  - Phrase: Perdón
+    Translation: Excuse me (accident)
+
+  - Phrase: Hasta mañana
+    Translation: Until tomorrow
+
+  - Phrase: Tengo que irme
+    Translation: I've gotta go
+
+  - Phrase: Estoy bien, gracias
+    Translation: I am well, thanks
+  
   - Phrase: ¡Buenas tardes!
     Translation: Good afternoon!
     Alternative translations:
@@ -98,6 +142,28 @@ Mini-dictionary:
       - luego
     - afternoon: tarde
     - night: noche
+    - formal: formal
+    - version: version
+    - friendly: amigos
+    - where: de dónde
+    - from: de
+    - Nothing: nada
+    - I'm: Yo soy
+    - I've: Yo he
+    - gotta: tengo que
+    - sorry: 
+      - lo siento
+      - Disculpe
+      - perdón
+    - excuse:
+      - disculpe
+    - me: me
+    - need: necesita
+    - get: consiga
+    - through: a través de
+    - until: hasta
+    - tomorrow: mañana
+    - thanks: gracias
 
   Spanish:
     - buenos: good
@@ -131,4 +197,22 @@ Mini-dictionary:
       - so-called
       - think
       - postulation
+    - su: su
+    - puesto: place
+    - usted: you (formal)
+    - de: from
+    - dónde: where
+    - tu: you
+    - hay: There is
+    - lo: it
+    - siento: sorry
+    - Con: with
+    - permiso: permit
+    - mañana: tomorrow
+    - tengo: I have
+    - que:
+      - that
+      - which
+    - irme: go to
+    - gracias: thanks
 
