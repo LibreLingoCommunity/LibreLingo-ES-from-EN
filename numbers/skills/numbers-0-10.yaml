@@ -1,0 +1,83 @@
+Skill:
+  Name: Numbers (0 - 10)
+  Id: 51351g-a
+
+New words:
+  - Word: computadoras
+    Translation: computers
+    Images:
+      - computers1
+      - computers2
+      - computers3
+  
+  - Word: chicos
+    Translation: guys
+    Also Accepted: 
+      - boys
+      - kids
+    Images:
+      - boys1
+      - boys2
+      - boys3
+
+  - Word: casas
+    Translation: houses
+    Also Accepted: 
+      - homes
+    Images:
+      - homes1
+      - homes2
+      - homes3
+
+  - Word: teléfonos
+    Translation: phones
+    Also Accepted: 
+      - telephones
+    Images:
+      - phones1
+      - phones2
+      - phones3
+
+  - Word: bicicletas
+    Translation: bikes
+    Images:
+      - bikes1
+      - bikes2
+      - bikes3
+
+  - Word: perros
+    Translation: dogs
+    Images:
+      - dogs1
+      - dogs2
+      - dogs3
+
+  - Word: camisas
+    Translation: shirts
+    Images:
+      - shirts1
+      - shirts2
+      - shirts3
+  
+  - Word: dólares
+    Translation: dollars
+    Images:
+      - dollars1
+      - dollars2
+      - dollars3
+
+  - Word: zapatos
+    Translation: shoes
+    Images:
+      - shoes1
+      - shoes2
+      - shoes3
+
+  - Word: carros
+    Translation: carts
+    Images:
+      - carts1
+      - carts2
+      - carts3
+
+
